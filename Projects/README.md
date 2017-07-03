@@ -1,11 +1,11 @@
-## List  of projects handled
+## List  of projects 
 
 ###### Enterprise Application Implementation
 1. ERP Implementation - Textile Vertical
 2. HR & Finance  Implementations - Garmenting Vertical
 3. ERP Implementation - Knowledge processing Industry
 
-######Enterprise Application Development
+###### Enterprise Application Development
 1. .NET based Enterprise application integerated with SAP Business One
 2. Automated Audit Risk Tracking and Management 
 3. Java - Auto Dealer management system - Automotive
@@ -19,7 +19,6 @@
 1. E-Governance Portals
 2. Multi-Tenant SaaS Configurator
 3. IoT Platform for Machine Tool Industry
-4. IoT Platform for  
 
 ###### Infrastructure projects
 1. Support of  ISDN Routers
