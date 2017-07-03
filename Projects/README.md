@@ -5,7 +5,7 @@
 2. HR & Finance  Implementations - Garmenting Vertical
 3. ERP Implementation - Knowledge processing Industry
 
-######Enterprise Application Development
+###### Enterprise Application Development
 1. .NET based Enterprise application integerated with SAP Business One
 2. Automated Audit Risk Tracking and Management 
 3. Java - Auto Dealer management system - Automotive
